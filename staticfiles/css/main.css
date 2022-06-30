@@ -23,12 +23,12 @@ ul{
     list-style-type: none;
 }
 
-.social-links ul,li{
+social-links ul,li{
     list-style-type: none;
     display: inline-block;
 }
 
-.social{
+social{
     width: 20px;
     height: 20px;
 }
